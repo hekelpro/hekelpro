@@ -1,4 +1,4 @@
-# Welcome bro, [Rizky](https://rizky-project.my.id) here 🙌
+# Welcome bro, [Rizky](http://rizky-project.my.id) here 🙌
 
 ![hekelpro](https://komarev.com/ghpvc/?username=hekelpro&label=Views&color=blue&style=plastic)
 [![GitHub hekelpro](https://img.shields.io/github/followers/hekelpro?label=follow&style=social)](https://github.com/hekelpro)
