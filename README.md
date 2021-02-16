@@ -9,7 +9,7 @@
 
 <details>
   <summary><b>contact me</b></summary>
-  <p align="center">
+
   - <a href="https://www.facebook.com/riski.darmawan.1690671"/><img alt="Rizky Facebook" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /><b> Add</b></a><br>
   - <a href="https://t.me/Rizky1504"/><img alt="Rizky Telegram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /><b> Chat</b></a><br>
   - <a href="https://instagram.com/riskidarmawan_15"/><img alt="Rizky Instagram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><b> Follow</b></a>
